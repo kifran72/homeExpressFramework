@@ -1,0 +1,14 @@
+{
+    "name": "ownframework",
+    "version": "1.0.0",
+    "description": "Application de réservation de salles de sport",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^17.0.8"
+    }
+}
